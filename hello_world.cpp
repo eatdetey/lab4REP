@@ -2,6 +2,7 @@
 #include <string>
 
 int main() {
+    //Переменая для хранения имени пользователя, к которому нужно обратиться
     std:: string name;
 
     std:: cout << "Enter your name: ";
