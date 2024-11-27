@@ -2,7 +2,7 @@
 #include <string>
 
 int main() {
-    //Переменая для хранения имени пользователя, к которому нужно обратиться
+    //Variable to store the name of the user to contact
     std:: string name;
 
     std:: cout << "Enter your name: ";
